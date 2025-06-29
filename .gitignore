@@ -1,0 +1,6 @@
+monit/
+__pycache__/
+*.pyc
+logs/
+airflow.cfg
+dags/__pycache__/
